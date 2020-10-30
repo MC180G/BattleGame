@@ -15,7 +15,7 @@ body {
   
   .section-title {
     font-size: 200%;
-    color: grey;
+    color: orange;
    }
   
   .main-section-title {
@@ -110,4 +110,8 @@ body {
   
   #turn-counter {
     font-size: 150%;
+  }
+
+  #game-message {
+    color: yellow
   }
