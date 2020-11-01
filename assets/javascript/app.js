@@ -9,7 +9,7 @@ $(document).ready(function() {
         name: "Mike Milch",
         health: 120,
         attack: 8,
-        imageUrl: "/assets/images/Milch.jpg",
+        imageUrl: "assets/images/Milch.jpg",
         enemyAttackBack: 15
       },
       "Barry Norris": {

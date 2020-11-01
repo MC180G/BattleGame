@@ -1,6 +1,6 @@
 body {
     font-family: "Share Tech Mono", Arial, Helvetica, sans-serif;
-    background-image: url("/assets/images/bloodyOffice.jpg");
+    background-image: url("assets/images/bloodyOffice.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
