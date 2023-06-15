@@ -148,6 +148,8 @@ $(document).ready(function() {
     $("#available-to-attack-section").on("click", ".character", function() {
       // Saving the opponent's name.
       var name = $(this).attr("data-name");
+
+        //This is where I can add in a function to randomize the defender.
   
       // If there is no defender, the clicked enemy will become the defender.
       if ($("#defender").children().length === 0) {
